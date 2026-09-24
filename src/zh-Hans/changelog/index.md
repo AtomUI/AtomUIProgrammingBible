@@ -22,8 +22,8 @@ v5.0.2</br>
 
 ### 版本说明
 
-`AtomUI OSS` 5.0 对应 `Ant Design` 5.0，实现的设计语言也是 5.0 版本。
+`AtomUI OSS` 6.0 对应 `Ant Design` 6.0，实现的设计语言也是 6.0 版本。
 
 > [!TIP]
-> 从 `Ant Design` 6.0 开始，`AtomUI OSS` 将保持对 `Ant Design` 版本的更随，也就是 `AtomUI OSS` 的下一个主版本将跳过 2.0，直接到 6.0 版本
+> 从 `AtomUI OSS` 5.0 开始，`AtomUI OSS` 保持对 `Ant Design` 主版本号的跟随：`AtomUI OSS` 5.0 对应 `Ant Design` 5.0，`AtomUI OSS` 6.0 对应 `Ant Design` 6.0，以此类推
 > 从而避免不必要的解释，开发者也能一目了然
